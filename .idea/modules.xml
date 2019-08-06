@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/login-project/login-demo-baidu/login-demo-baidu.iml" filepath="$PROJECT_DIR$/login-project/login-demo-baidu/login-demo-baidu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login-project/login-demo-tencent/login-demo-tencent.iml" filepath="$PROJECT_DIR$/login-project/login-demo-tencent/login-demo-tencent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login-project/login-project.iml" filepath="$PROJECT_DIR$/login-project/login-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luban-store/luban-account/luban-account.iml" filepath="$PROJECT_DIR$/luban-store/luban-account/luban-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luban-store/luban-admin/luban-admin.iml" filepath="$PROJECT_DIR$/luban-store/luban-admin/luban-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luban-store/luban-eureka/luban-eureka.iml" filepath="$PROJECT_DIR$/luban-store/luban-eureka/luban-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luban-store/luban-front-end/luban-front-end.iml" filepath="$PROJECT_DIR$/luban-store/luban-front-end/luban-front-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luban-store/luban-order/luban-order.iml" filepath="$PROJECT_DIR$/luban-store/luban-order/luban-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luban-store/luban-product/luban-product.iml" filepath="$PROJECT_DIR$/luban-store/luban-product/luban-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luban-store/luban-store.iml" filepath="$PROJECT_DIR$/luban-store/luban-store.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luban-store/luban-zuul/luban-zuul.iml" filepath="$PROJECT_DIR$/luban-store/luban-zuul/luban-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-transaction/test-server1/test-server1.iml" filepath="$PROJECT_DIR$/test-transaction/test-server1/test-server1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-transaction/test-server2/test-server2.iml" filepath="$PROJECT_DIR$/test-transaction/test-server2/test-server2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-transaction/test-transaction.iml" filepath="$PROJECT_DIR$/test-transaction/test-transaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-transaction/transaction/transaction.iml" filepath="$PROJECT_DIR$/test-transaction/transaction/transaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-transaction/transaction-manager/transaction-manager.iml" filepath="$PROJECT_DIR$/test-transaction/transaction-manager/transaction-manager.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="luban-front-end" />
+        <module name="luban-eureka" />
+        <module name="luban-order" />
+        <module name="luban-zuul" />
+        <module name="luban-account" />
+        <module name="luban-product" />
+        <module name="test-server2" />
+        <module name="transaction" />
+        <module name="luban-admin" />
+        <module name="login-demo-baidu" />
+        <module name="transaction-manager" />
+        <module name="test-server1" />
+        <module name="login-demo-tencent" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="login-demo-baidu" target="1.8" />
+      <module name="login-demo-tencent" target="1.8" />
+      <module name="login-project" target="1.8" />
+      <module name="luban-account" target="1.8" />
+      <module name="luban-admin" target="1.8" />
+      <module name="luban-eureka" target="1.8" />
+      <module name="luban-front-end" target="1.8" />
+      <module name="luban-order" target="1.8" />
+      <module name="luban-product" target="1.8" />
+      <module name="luban-store" target="1.8" />
+      <module name="luban-zuul" target="1.8" />
+      <module name="test-server1" target="1.8" />
+      <module name="test-server2" target="1.8" />
+      <module name="test-transaction" target="1.8" />
+      <module name="transaction" target="1.8" />
+      <module name="transaction-manager" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="login-demo-baidu" options="-parameters" />
+      <module name="login-demo-tencent" options="-parameters" />
+      <module name="luban-account" options="-parameters" />
+      <module name="luban-admin" options="-parameters" />
+      <module name="luban-eureka" options="-parameters" />
+      <module name="luban-front-end" options="-parameters" />
+      <module name="luban-order" options="-parameters" />
+      <module name="luban-product" options="-parameters" />
+      <module name="luban-zuul" options="-parameters" />
+      <module name="test-server1" options="-parameters" />
+      <module name="test-server2" options="-parameters" />
+      <module name="transaction" options="-parameters" />
+      <module name="transaction-manager" options="-parameters" />
+    </option>
+  </component>
+</project>

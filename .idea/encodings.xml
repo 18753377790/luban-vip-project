@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/login-project" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/login-project/login-demo-baidu" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/login-project/login-demo-tencent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/luban-store" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/luban-store/luban-account" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/luban-store/luban-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/luban-store/luban-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/luban-store/luban-front-end" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/luban-store/luban-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/luban-store/luban-product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/luban-store/luban-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-transaction" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-transaction/test-server1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-transaction/test-server2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-transaction/transaction" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-transaction/transaction-manager" charset="UTF-8" />
+  </component>
+</project>
